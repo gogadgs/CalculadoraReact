@@ -17,6 +17,7 @@
   "scripts": {
   "predeploy":"npm run build",
   "deploy":"gh-pages -d build",
+  "packageManager": "pnpm@7.5.1",
 
     "start": "react-scripts start",
     "build": "react-scripts build",
