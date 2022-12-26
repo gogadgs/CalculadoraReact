@@ -17,7 +17,7 @@ export const ConteudoCalculadora = styled.div`
 
           background-color:#FFFF;
           width:50%;
-          min-height:350px;
+          min-height:230px;
 
 
 

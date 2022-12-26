@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const ConteudoDoBotao = styled.button`
-        padding:20px;
+       
         border:1px solid #CDCDCD;
         background-color:#1E90FF;
         color:#FFFF;
