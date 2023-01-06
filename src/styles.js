@@ -2,7 +2,7 @@ import styled  from  'styled-components';
 
 
 
-export const Conteudo  = styled.div `
+export const Conteudo = styled.div`
 
         width:100%;
         height: 100vh;
